@@ -265,6 +265,7 @@ top: 616px;
 /* Primary/White */
 border: 1px solid #FFFFFF;
 border-radius: 50%;
+margin-bottom: 110px;
     
 }
 .iWant:hover {
@@ -274,4 +275,13 @@ border-radius: 50%;
 
 .want {
     margin-top: 45px;
+}
+
+.foto {
+    position: absolute;
+width: 616.84px;
+height: 740px;
+left: 83.16px;
+top: 850px;
+border: 3px solid #C9F3DF;
 }
